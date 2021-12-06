@@ -1,4 +1,4 @@
-![gambar 1](screenshot/scr1.gif) <p>
+![gambar 1](screenshot/scr4.gif) <p>
 ### Program ini adalah program untuk Menghitung dan Menampilkan data nilai Mahasiswa dengan  Tampilkan menu pilihan: (Tambah Data, Ubah Data, Hapus Data,Tampilkan Data, Cari Data) Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%,uts: 35%, uas: 35%)
 
 
